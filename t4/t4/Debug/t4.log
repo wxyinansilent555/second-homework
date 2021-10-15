@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\此间兮若流年\Desktop\C_learning\2021-10-14\t4\t4\源.cpp(9,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  t4.vcxproj -> C:\Users\此间兮若流年\Desktop\C_learning\2021-10-14\t4\Debug\t4.exe
